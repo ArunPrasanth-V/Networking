@@ -1,0 +1,56 @@
+1)What is Computer Networking?
+        i)It is a set of Node used for sharing-data (resourece) by Communication Link.  
+       
+        ii)here "Node" Represents a device which capable of sharing there data. It simply mean a device which having IPaddress are all the Node
+            EG: Phone, computer, server, Router, Switch,server,tower etc.,
+      
+        iii)"Communication link" it means how the datas are transmitted 
+                      it can be done by 2 ways
+                           i)wired      -it transfer data through signal  EG: FiberOptic cable
+                           ii)wire-less  -it can transerfer data throught wave (in air)  EG: infrared rays ,Radio-wave .
+
+
+2)Basic Characteristics of Computer Networking?                        
+                               i)Fault-tolarance
+                               ii)Scalablity
+                               iii)QOS  (Quality Of Service)
+                               iv)Security
+                               
+i)Fault-tolarance
+           while transfering data if any failure occur in router means .The Network are ability to transfer data thourgh  another way that can possible.
+                eg: am senting data to sever. unfortunatly one router get failed to transfer data. so, another router is responsible for process that data.
+                
+                so, Ability of the Node should work continusely even dispite of any failer occur.
+                    it should have the ability to provide service without any loss.
+ii)Scalablity
+          if i'm having a router initially it connnected by 20 Deveices. after some times that router is conneceted by 100 Device. it should work properly
+    like intiallay the 20 were connected in the ways it should work not lowdown. (Grow based on there needs)
+         it Should perform well
+         
+iii)QOS  
+        The datas are processed based on the priority .
+           eg: there are 2 request 1 is mail 2nd is voice over call (like whatsApp call)
+                   it should gives the prority to that voice over call not mail because incase of delay occur in the communication means that not nice
+              so, it should know what data should be processed.
+              
+          It also know to manage data traffic , reduce the data loss and delay.
+  
+iv)Security
+           if any attakers trying to misuse the information means it should have the ability to prevent our data from attackers.
+           
+           It Should have the ability to prevent 
+                  i)Unauthorized access
+                  ii)misuse
+                  iii)forgery
+           It should provide 
+                  i)Confidentiality  (to prevent Unauthorized access).
+                  ii)Integrity (It should be trusted once)
+                  iii)Availabity (like Google drive access any where)
+          
+          
+       
+    
+                           
+                     
+        
+           
