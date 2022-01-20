@@ -21,5 +21,7 @@
   >>Represent into four Octets.  eg:  0111 0001 . 1000 1010 . 1001 1101
   >> Each octete in the range (0 - 255)
   
-  
-# 
+  ![This is an image](https://github.com/ArunPrasanth-V/Networking/blob/main/Practical%20Networking/Image%20folder/Screenshot%20from%202022-01-20%2017-46-56.png)
+![This is an image](https://github.com/ArunPrasanth-V/Networking/blob/main/Practical%20Networking/Image%20folder/Screenshot%20from%202022-01-20%2018-08-11.png)
+![This is an image](https://github.com/ArunPrasanth-V/Networking/blob/main/Practical%20Networking/Image%20folder/Screenshot%20from%202022-01-20%2018-09-58.png)
+
